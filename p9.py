@@ -1,0 +1,9 @@
+n1=int(input("Introduceti un nr "))
+n2=int(input("Introduceti un nr "))
+n3=int(input("Introduceti un nr "))
+s1=n1+n2
+s2=n2+n3
+s3=n1+n3
+print("Prima suma este n1+n2=",s1)
+print("A 2 suma este n2+n3=",s2)
+print("A 3 suma este n1+n3=",s3)
